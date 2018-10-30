@@ -1,2 +1,2 @@
 # betc-api
-API for future hobby app BirthdaysEtc
+Possible API for future hobby app BirthdaysEtc
