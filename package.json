@@ -1,9 +1,9 @@
 {
   "name": "betc-api",
   "version": "1.0.0",
-  "description": "Google Spreadsheet to JSON API app",
+  "description": "API for birthdays app; uses GSX2JSON by Nick Moreton",
   "main": "app.js",
-  "author": "Nick Moreton",
+  "author": "Les Carbonaro",
   "dependencies": {
     "body-parser": "^1.x.x",
     "express": "^4.x.x",
@@ -14,3 +14,4 @@
     "start": "node app"
   }
 }
+
