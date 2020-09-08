@@ -33,6 +33,6 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen(port, function() {
-  console.log('API server listening on port ' + port);
+  console.log('API server listening on port ' + port); 
 });
 
