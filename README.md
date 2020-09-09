@@ -1,3 +1,5 @@
+## Deprecated - No longer in use!
+
 # betc-api
 Possible API for future hobby app BirthdaysEtc
 
